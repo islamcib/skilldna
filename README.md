@@ -67,7 +67,7 @@
 
 | Главная страница | 3D ДНК модель | Форма навыков |
 |:---:|:---:|:---:|
-| ![Главная страница](https://via.placeholder.com/300x200/1e293b/ffffff?text=Главная+страница) | ![3D ДНК](https://via.placeholder.com/300x200/8b5cf6/ffffff?text=3D+ДНК) | ![Форма](https://via.placeholder.com/300x200/10b981/ffffff?text=Форма+навыков) |
+| ![Главная страница](./image.png) | ![3D ДНК](./днк.png) | ![Форма](./форма.png) |
 
 </div>
 
