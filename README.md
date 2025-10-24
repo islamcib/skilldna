@@ -59,7 +59,7 @@
 ## 🚀 Демо
 
 ### 🎬 Видео демонстрация
-[![SkillDNA Demo](https://img.shields.io/badge/🎬-Смотреть%20демо-red?style=for-the-badge)]([https://youtube.com/watch?v=demo](https://studio.youtube.com/video/VIPiZkWLtl8/edit))
+[![SkillDNA Demo](https://img.shields.io/badge/🎬-Смотреть%20демо-red?style=for-the-badge)](https://youtu.be/VIPiZkWLtl8)
 
 ### 📱 Скриншоты
 
